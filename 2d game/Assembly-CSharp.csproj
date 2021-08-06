@@ -64,14 +64,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Free_Pack\BURLY-MAN_1_swordsman\Free_GM.cs" />
-    <Compile Include="Assets\Free_Pack\Demo_GameResource\Script\CharacterController_2D.cs" />
-    <Compile Include="Assets\Free_Pack\Demo_GameResource\Script\ColliderEvent_Sender.cs" />
-    <Compile Include="Assets\Free_Pack\Demo_GameResource\Script\Demo_GM.cs" />
-    <Compile Include="Assets\Free_Pack\Demo_GameResource\Script\DestroyEffect.cs" />
-    <Compile Include="Assets\Free_Pack\Demo_GameResource\Script\WoodDoll_Mgr.cs" />
     <Compile Include="Assets\cs\CharacterController2D.cs" />
-    <Compile Include="Assets\player_movment.cs" />
+    <Compile Include="Assets\playerMovment.cs" />
     <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/unity projects/2d-game-with-unity/2d game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
